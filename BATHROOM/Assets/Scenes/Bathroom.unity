@@ -951,7 +951,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 3bed818119dee904bb73c1a314012cc3, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 3.588
+      value: 3.581
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 3bed818119dee904bb73c1a314012cc3, type: 3}
       propertyPath: m_LocalRotation.w
@@ -2576,10 +2576,18 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -6617067518448259542, guid: f95255b19bfb7de4fb1cd46d573fb03d, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: cb920fe992990a243959e2fd55ec8e44, type: 2}
     - target: {fileID: -6136504025984108980, guid: f95255b19bfb7de4fb1cd46d573fb03d, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
+    - target: {fileID: -4991432858476761251, guid: f95255b19bfb7de4fb1cd46d573fb03d, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: cb920fe992990a243959e2fd55ec8e44, type: 2}
     - target: {fileID: -4327296742647562512, guid: f95255b19bfb7de4fb1cd46d573fb03d, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
@@ -2588,6 +2596,14 @@ PrefabInstance:
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
+    - target: {fileID: -2568512124786460697, guid: f95255b19bfb7de4fb1cd46d573fb03d, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: cb920fe992990a243959e2fd55ec8e44, type: 2}
+    - target: {fileID: -903057807133644996, guid: f95255b19bfb7de4fb1cd46d573fb03d, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: cb920fe992990a243959e2fd55ec8e44, type: 2}
     - target: {fileID: 919132149155446097, guid: f95255b19bfb7de4fb1cd46d573fb03d, type: 3}
       propertyPath: m_Name
       value: sm_beams
