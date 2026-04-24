@@ -2192,7 +2192,7 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: aac3f205dd2345e4496ec2568720bdb1, type: 2}
     - target: {fileID: -7666619351853056027, guid: f9717f39a67d7284499345abb7dd12fd, type: 3}
       propertyPath: m_StaticEditorFlags
-      value: 2147483647
+      value: 127
       objectReference: {fileID: 0}
     - target: {fileID: -7622893796672424917, guid: f9717f39a67d7284499345abb7dd12fd, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -2403,6 +2403,10 @@ PrefabInstance:
       value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: -107102629144702270, guid: f9717f39a67d7284499345abb7dd12fd, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -107102629144702270, guid: f9717f39a67d7284499345abb7dd12fd, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
       objectReference: {fileID: 2100000, guid: aac3f205dd2345e4496ec2568720bdb1, type: 2}
@@ -2530,6 +2534,10 @@ PrefabInstance:
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
       objectReference: {fileID: 2100000, guid: 2e1dfe610da39314fa376ecb93f466fc, type: 2}
+    - target: {fileID: 4572349600629609496, guid: f9717f39a67d7284499345abb7dd12fd, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 4628730434478992967, guid: f9717f39a67d7284499345abb7dd12fd, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
@@ -2670,10 +2678,18 @@ PrefabInstance:
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
       objectReference: {fileID: 2100000, guid: 2e1dfe610da39314fa376ecb93f466fc, type: 2}
+    - target: {fileID: 8271528402804078537, guid: f9717f39a67d7284499345abb7dd12fd, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8670314243957797024, guid: f9717f39a67d7284499345abb7dd12fd, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
       objectReference: {fileID: 2100000, guid: 2e1dfe610da39314fa376ecb93f466fc, type: 2}
+    - target: {fileID: 8837741647740407527, guid: f9717f39a67d7284499345abb7dd12fd, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8991124391382750099, guid: f9717f39a67d7284499345abb7dd12fd, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
